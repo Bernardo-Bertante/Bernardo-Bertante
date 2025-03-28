@@ -55,7 +55,6 @@ The sentence above is the result of the definition I have reached and guides my 
 />
 
 <br/>
-<br/>
 
 ---
 
