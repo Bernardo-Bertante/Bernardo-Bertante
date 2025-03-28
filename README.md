@@ -21,7 +21,6 @@ The sentence above is the result of the definition I have reached and guides my 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Spring" 
